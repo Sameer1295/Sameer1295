@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sameer1295
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning django and angular
+- 🌱 I’m currently learning django and reactjs
 - 📫 You can reach me on Linkedin 
 
 <!---
