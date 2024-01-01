@@ -18,8 +18,11 @@ Data Tools: Hadoop, MapReduce, AWS Athena, AWS Glue
 What I'm Doing
 
 📚 Learning more about distributed computing and data processing.
+
 🛠️ Experimenting with various big data tools and technologies on AWS Cloud.
+
 💡 Exploring ways to integrate big data solutions into existing systems.
+
 🌐 Sharing my insights and learning experiences through articles and projects.
 
 
