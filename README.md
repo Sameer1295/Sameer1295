@@ -10,13 +10,13 @@ I have a strong foundation in building scalable web applications and cloud infra
 
 Technologies I work with
 
-Languages: Python, SQL, PHP, Javascript
-
-Frameworks: Django, Laravel
+Languages: Python, SQL, PySpark
 
 Cloud: AWS (Amazon Web Services)
 
 Data Tools: Hadoop, MapReduce, AWS Athena, AWS Glue
+
+Frameworks: Django, Laravel
 
 What I'm Doing
 
