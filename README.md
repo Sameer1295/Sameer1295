@@ -2,7 +2,7 @@ Hi there! 👋 I'm Sameer Singh
 
 About Me
 
-I'm a passionate software developer with expertise in Python, Django, SQL, PHP, Laravel, and AWS. 
+I'm a passionate software developer with expertise in Python, PySpark, SQL and AWS. 
 
 I have a strong foundation in building scalable web applications and cloud infrastructure.
 
@@ -12,11 +12,11 @@ Technologies I work with
 
 Languages: Python, SQL, PySpark
 
-Cloud: AWS (Amazon Web Services)
+Big Data Technologies: Hadoop, HDFS, Hive, Apache Spark, Kafka, Airflow
 
-Data Tools: Hadoop, MapReduce, AWS Athena, AWS Glue
+Cloud services: AWS (Glue, S3, Athena, Redshift, EMR, Quicksight, Lambda), Databricks and Azure Fundamentals
 
-Frameworks: Django, Laravel
+Data Engineering Skills: Data Modeling, ETL Pipeline, Data Ingestion, Data Transformation, Data Visualization, Data Pipeline Orchestration
 
 What I'm Doing
 
