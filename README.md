@@ -48,7 +48,10 @@ I have a strong foundation in building scalable web applications and cloud infra
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-SameerSingh-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/sameer-singh-data/))
-[![Medium](https://img.shields.io/badge/Medium-SameerSingh-black?style=for-the-badge&logo=medium)]([https://medium.com/@your-medium-username](https://medium.com/@singhsameer121295))
-[![Twitter](https://img.shields.io/badge/Twitter-SameerHandle-lightblue?style=for-the-badge&logo=twitter)]([https://twitter.com/your-twitter-handle](https://twitter.com/Sameer_1295))
-[![GitHub](https://img.shields.io/badge/GitHub-Sameer1295-darkgreen?style=for-the-badge&logo=github)]([https://github.com/your-github-username](https://github.com/Sameer1295))
+<div align="left">
+  <a href="https://github.com/Sameer1295" target="_blank"><img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHl2MXgzdnkzc2lua3Y2NHgyM3FxZTcyNnlucXp2eWplNnZtM3VzMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" alt="GitHub" width="100"/></a>
+  <a href="https://www.linkedin.com/in/sameer-singh-data/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" width="100"/></a>
+  <a href="https://twitter.com/Sameer_1295" target="_blank"><img align="center" src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/241765460-cc4fe88c-7f7a-41d8-b449-34b7a178c1c6.gif" alt="Twitter" width="100"/></a>
+  <a href="https://medium.com/@singhsameer121295" target="_blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/medium.svg" alt="Medium" width="100"/></a>
+</div>
+
