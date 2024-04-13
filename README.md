@@ -10,16 +10,11 @@ I have a strong foundation in building scalable web applications and cloud infra
 
 ## Soft Skills
 
-🔄 Adaptability
-
-🧩 Problem-Solving
+🔄 Adaptability | 🧩 Problem-Solving
 
 🔍 Strong Analytical Skills
 
-✉️ Client Communication
-
-🤝 Teamwork and Collaboration
-
+✉️ Client Communication | 🤝 Teamwork and Collaboration
 
 ## Technical Skills
 
