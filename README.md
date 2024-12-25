@@ -2,11 +2,11 @@
 
 ## About Me
 
-I'm a passionate software developer with expertise in Python, PySpark, SQL and AWS. 
+I'm a passionate Data Engineer with expertise in Python, SQL, PySpark and AWS. 
 
-I have a strong foundation in building scalable web applications and cloud infrastructure.
+I have a strong foundation in building robust data pipelines and optimizing data workflows.
 
-🌟 Currently, I'm diving into the exciting world of Big Data and Data Engineering, exploring new technologies and methodologies to handle and process large volumes of data effectively.
+🌟 Currently, I'm diving into the exciting world of Artificial Intelligence and Generative AI, exploring how these cutting-edge technologies can be leveraged to enhance and streamline Data Engineering tasks. 
 
 ## Soft Skills
 
@@ -24,9 +24,9 @@ I have a strong foundation in building scalable web applications and cloud infra
 
 🛠️ Data Engineering Skills: Data Modeling, ETL Pipeline, Data Ingestion, Data Transformation, Data Visualization, Data Pipeline Orchestration
 
-📊 Data Visualization: MS Excel, Pandas, Seaborn, Plotly
+📊 Data Visualization: Power BI, Pandas, Seaborn, Plotly
 
-☁️ Cloud Services: AWS (Glue, S3, Athena, Redshift, EMR, Quicksight, Lambda), Databricks and Azure Fundamentals
+☁️ Cloud Services: AWS (Glue, S3, Athena, Redshift, EMR, Quicksight, Lambda), Databricks and Azure (ADF, Azure Databricks, Azure SQL, ADLS)
 
 ⚙️ Tools: VS Code, Git Bash, Vim, Postman, Jira, and Confluence
 
@@ -35,7 +35,7 @@ I have a strong foundation in building scalable web applications and cloud infra
 
 📚 Learning more about distributed computing and data processing.
 
-🛠️ Experimenting with various big data tools and technologies on AWS Cloud.
+🛠️ Experimenting with various big data tools and technologies on AWS and Azure Cloud.
 
 💡 Exploring ways to integrate big data solutions into existing systems.
 
